@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Codonisst
+- 👋 Hi, I’m Zaka Ullah
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning javacript
-- 💞️ I’m looking to collaborate on learning javascript
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on learning React
 - 📫 How to reach me codeboy702@gmail.com
 
 <!---
